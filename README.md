@@ -36,7 +36,7 @@ write = system,call,log,verbose,command,agent,user,config,command,dtmf,reporting
 
 
 # Run the app
-Download the jar file ajop-{file-version}.jat from the "dist" then run the app using the following command:
+Download the jar file ajop-{file-version}.jat from the "dist" directory, then run it using the following command:
 
 java -jar ajop-v1.jar
 
